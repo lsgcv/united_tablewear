@@ -1,4 +1,4 @@
-classes= 20
+classes= 12
 train  = train.txt
 valid  = 2007_test.txt
 names = data/voc.names
